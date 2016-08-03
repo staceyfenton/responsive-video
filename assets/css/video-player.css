@@ -1,0 +1,49 @@
+body {
+  margin: 20px;
+}
+
+.content-wrapper {
+  margin: 0 auto;
+  max-width: 640px;
+}
+
+.video-container {
+  height: 0;
+  max-width: 100%;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+.video-container a {
+  border-bottom: 18px solid transparent;
+  border-left: 22px solid #000;
+  border-top: 18px solid transparent;
+  box-sizing: border-box;
+  height: 26px;
+  margin: -13px 0 0 -11px;
+  left: 50%;
+  position: absolute;
+  text-indent: -999em;
+  top: 50%;
+  width: 22px;
+}
+
+.video-container a:hover {
+  border-left-color: #f00;
+}
+
+.video-container img {
+  display: block;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed,
+.video-container img {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}

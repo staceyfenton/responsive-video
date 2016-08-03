@@ -1,0 +1,24 @@
+{
+  "name": "responsive-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staceyfenton/responsive-video.git"
+  },
+  "author": "Stacey Fenton",
+  "bugs": {
+    "url": "https://github.com/staceyfenton/responsive-video/issues"
+  },
+  "homepage": "https://github.com/staceyfenton/responsive-video#readme",
+  "devDependencies": {
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.0"
+  }
+}
