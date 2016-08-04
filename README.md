@@ -10,4 +10,6 @@ To install the project dependencies:
 To run the project in your browser:
 `grunt`
 
+Navigate to http://localhost:8888 in your browser.
 
+Alternatively, you can view this on [CodePen](http://codepen.io/staceyfenton/pen/VjEvRo).
